@@ -1,6 +1,7 @@
 # BeingContinuous
 Creative Commons Repo for DevOps Transformation Methodology Practices.
 
++ A storyboard for components referenced in this paper is to be found here: https://trello.com/b/yGs6RKhm/continuous-transformation-storymap
 
 # Part I -- Value
 
@@ -215,19 +216,19 @@ A great example of this, which will be familiar to software practitioners in ban
 
 Instead, consider this simplified IOTA model for the budgeting problem --
 
-- Hypotheses
++ Hypotheses
 Customers want to budget using historical data from their bank accounts rather than control future spending (which is how most people understand the term, “budget”).
 Customers understand how they spend money by categorizing their transactions. 
 
-- Capabilities (Features)
++ Capabilities (Features)
 Create an alert that notifies whenever spend in a category goes over a budgeted amount. E.g. $100 from Amazon.
 Enable the categorization of transactions. 
 
-- Conditions
++ Conditions
 Obtain from the data warehouse team any attributes they already use to analyze transactions so that we can provide categories for users as a starter set.
 Determine if we can deduce categories of things bought using the Amazon transaction reference. 
 
-- Targets
++ Targets
 Within a month 5 percent of Internet banking customers have categorized some transactions.
 More than 75 percent of those customers have activated a budget alert.  
 
