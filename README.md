@@ -1,5 +1,5 @@
 # Continuous Transformation Practice
-A DevOps Transformation Methodology Practice.
+A DevOps Transformation Practice.
 
 This set of practices was developed by me while at GE Capital and has been clarified, extended and further developed at CHEF Software with contributions by Richard Nixon, Scott Russell, Michael Goetz, John Martin and Jeff Hackert. While it is the basis of a commercial services offering at CHEF it is free to use with attribution and the hope is that others will extend it, improve it and share alike based on their practice. 
 
