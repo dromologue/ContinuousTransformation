@@ -5,7 +5,9 @@ This set of practices was developed by myself and others and distills 20 years o
 
 While it is the basis of a commercial services offering at CHEF it is free to use with attribution and the hope is that others will extend it, improve it and share alike based on their practice. 
 
-Please submit a pull request with the addition of your name to the Contributors.md file to lodge your support. 
+Please submit a pull request with the addition of your name to the [Contributors List](https://github.com/dromologue/ContinuousTransformation/blob/master/Contributors.md) to lodge your support.
+
+The same goes for additions and suggested changes - please submit a pull request. Once you have added new material, please update and reference it in [RecentAdditions](https://github.com/dromologue/ContinuousTransformation/blob/master/RecentAdditions.md) file
 
 + A storyboard for components referenced in this approach is to be found [here](https://trello.com/b/yGs6RKhm). Please send an [an email](mailto:dromologue@gmail.com) to request access to the Trello board. 
 + An overview of primary content is held at the wiki [here](https://github.com/dromologue/BeingContinuous/wiki).
