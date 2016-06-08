@@ -49,10 +49,10 @@ The IOTA model can be tricky to get to grips with conceptually. This is why you 
 We discussed double-loop learning above and there are many approaches to formalising it including in very testing circumstances. A common one is the OODA loop used in the military: Orient, Observe, Decide, Act. and of course, Demming’s PDSA — Plan, Do, Study, Act.
 In order to work effectively and make good decisions, we know we need to reflect on results but we also need rest. The human brain’s ability to concentrate on a single item begins to decline after around 10 minutes. In addition, if we believe we have plenty of time to make a decision we also tend to spend more time talking abstractly, without a clear outcome in mind, also resulting in many context shifts as the conversation meanders. This is wonderfully covered by Goldratt in ‘The Goal’ as ‘Student Syndrome.’ So to remedy this, I break up each iteration of the IOTA model into 15 minute slices where we focus on four activities within strict time slices:
 
-A. 2 Minutes to decide what we are going to model this iteration.
-B. 5 minutes to do one cycle of IOTA using stickies on a flipchart. Ensuring we have added at least one to each quadrant.
-C. 5 minutes to reflect on ‘how’ we approached the problem, not the solution itself, but how we worked together to get to the result we have. Think of this as a small retrospective.
-D. 3 Minutes rest. This is critical as it gives time for the brain to process questions in the background using different cognitive pathways. This is why after taking a moment we often arrive at a solution. [more]
++ 2 Minutes to decide what we are going to model this iteration.
++ 5 minutes to do one cycle of IOTA using stickies on a flipchart. Ensuring we have added at least one to each quadrant.
++ 5 minutes to reflect on ‘how’ we approached the problem, not the solution itself, but how we worked together to get to the result we have. Think of this as a small retrospective.
++ 3 Minutes rest. This is critical as it gives time for the brain to process questions in the background using different cognitive pathways. This is why after taking a moment we often arrive at a solution. [more]
 
 In my experience, having run this 100’s of times, the best results are achieved after around 10 iterations like this. Each iteration is a refinement of the previous one and in a product development context enables a small team standing around a flipchart to become crystal clear on what they need to build to test an hypothesis and what success looks like. In many cases, teams use story cards for the Capabilities quadrant to do sprint planning for a short sprint of around two weeks. The use of short sprints no longer than two weeks is very powerful because it reduces the focus on illusory estimation. This approach is often referred to as the “No Estimates” movement and is well described by Vasco Duarte. I’m a big fan.
 I use the resulting model as a mechanism for talking to stakeholders outside the project team and the beauty is that everybody in the team can do the same thing. It is also useful as a context setter for retrospectives at the end of the sprint and to remind ourselves of our priorities during the sprint.
@@ -71,8 +71,11 @@ Both Jeff Patton and Marty Cagan have some great ideas for how to ask good quest
 + Density → What more complex jobs are possible taking all features already delivered into account?
 + Concreteness → What can the customer now do that previously they could not.
 + Agency → What choices do you give the customer in how to perform a task?
+
 Using Cagan’s language — all of these can be ‘delighters’ and using this approach I think you are more likely to identify that delight.
-Good news. These questions also work for Product 2! For clarity, I phrase them slightly differently:
+Good news. These questions also work for Product 2! 
+For clarity, I phrase them slightly differently:
+
 + Velocity → What capability does the team need in order to accomplish a recurrent task more quickly?
 + Granularity → Which product or technology areas do you need to acquire greater knowledge?
 + Density → Which tasks can be integrated and performed together (I.e. Automated)
