@@ -9,7 +9,7 @@ Please submit a pull request with the addition of your name to the [Contributors
 
 The same goes for additions and suggested changes - please submit a pull request. Once you have added new material, please update and reference it in [RecentAdditions](https://github.com/dromologue/ContinuousTransformation/blob/master/RecentAdditions.md)
 
-+ An overview of primary content is held at the wiki [here](https://github.com/dromologue/BeingContinuous/wiki).
+An overview of primary content is held at the wiki [here](https://github.com/dromologue/BeingContinuous/wiki).
 
 
 
