@@ -1,5 +1,7 @@
 # ELSA
 
+![ELSA](https://github.com/dromologue/BeingContinuous/blob/master/Diagrammes/ELSA%20Model.png)
+
 ## Driving Effective Change
 I am sure we all know one. That colleague who regales us with stories of how he has told ‘management’ (pervasive, omniscient, intransigent) what they need to do but they just won’t listen! Or the one who won’t do anything without checking with the entire chain of command. It is an obvious truism that change is hard on those impacted by it and certainly hard to initiate.
 Big corporate initiatives have a terrible track record of success. Notwithstanding some helpful guidance from consultants in ‘Change’ — if ever there was a contradiction in terms that’s one — we seem to perpetuate a language of change that requires hierarchy to start it off.
