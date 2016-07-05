@@ -2,3 +2,5 @@
 
 + Added Standard Bank whitepaper to case studies.
 + Added Credit Agricole materials [here](https://github.com/dromologue/ContinuousTransformation/wiki/Credit-Agricole).
++ Added Standard Bank [here](https://github.com/dromologue/ContinuousTransformation/wiki/Standard-Bank-Maturity-Model).
++ 
