@@ -5,3 +5,4 @@
 +[Josef Langerman](Josef.Langerman@standardbank.co.za)
 +[Richard Nixon](mailto://richard.nixon@btinternet.com)
 +[Jeff Hackert](mailto://jchackert@me.com)
++[Scott Russell](mailto://srussell@chef.io)
