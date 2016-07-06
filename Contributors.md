@@ -8,3 +8,4 @@
 +[Jeff Hackert](mailto://jchackert@me.com)
 +[Michael Goetz](mailto://mpgoetz@gmail.com)
 +[John Martin](mailto://tekbuddha@gmail.com)
++[Scott Russell](mailto://srussell@chef.io)
