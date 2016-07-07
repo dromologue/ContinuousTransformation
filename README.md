@@ -1,4 +1,4 @@
-# Continuous Transformation Practice - URI: [continuoustransformation.org](http://continuoustransformation.org)
+# Continuous Transformation Practice - [continuoustransformation.org](http://continuoustransformation.org)
 
 A DevOps Transformation Practice.
 
