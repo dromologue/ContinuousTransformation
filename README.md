@@ -1,4 +1,5 @@
-# Continuous Transformation Practice
+# Continuous Transformation Practice - URI: [continuoustransformation.org](http://continuoustransformation.org)
+
 A DevOps Transformation Practice.
 
 This set of practices distills 20 years of expereince in driving large scale technology-oriented change. It has been clarified, extended and further developed at CHEF Software in the Transformation Practice, working with clients all over the world, with contributions by [Justin Arbuckle](mailto:dromologue@gmail.com), Richard Nixon, Scott Russell, Michael Goetz, John Martin and Jeff Hackert. 
