@@ -1,7 +1,7 @@
 # A Preparatory Reading / Watching List for Attendees
 
 # Business
-+[Continuous Economy](https://github.com/dromologue/ContinuousTransformation/blob/master/Core%20Essays/ContinuousEconomy.md)
++ [Continuous Economy: Justin Arbuckle](https://github.com/dromologue/ContinuousTransformation/blob/master/Core%20Essays/ContinuousEconomy.md)
 
 # Technology
 
