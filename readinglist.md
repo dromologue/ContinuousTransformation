@@ -1,9 +1,11 @@
 # A Preparatory Reading / Watching List for Attendees
 
 # Technology
+
 Both of these:
 + [Doing Twice as Much in Half the Time: Jeff Sutherland](https://www.youtube.com/watch?v=s4thQcgLCqk)
 + [Principles of the Agile Manifesto](http://agilemanifesto.org/principles.html)
+
 One of These:
 + [Explaining Agile by Martin Fowler](https://www.youtube.com/watch?v=GE6lbPLEAzc)
 + [Why Agile Works by Alistair Cockburn](https://www.youtube.com/watch?v=BdSiBlLafNY)
@@ -11,6 +13,7 @@ One of These:
 + [Patterns: The basis of Scrum: Jim Coplien](https://www.youtube.com/watch?v=LYsl19xEvzM)
 
 # Organisations
+
 All of these:
 + [Becoming a Multipler: Camille Fournier](https://www.youtube.com/watch?v=jGPrU15GuSw)
 + [Conway's Law](http://www.melconway.com/research/committees.html)
