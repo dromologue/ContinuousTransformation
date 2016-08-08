@@ -9,8 +9,9 @@ TODO: Time some of these excercises and decide what to include... do we stick to
 
 ## Configuration management
 * Join a Chef org
-* Bootstrap a node to Chef
+* Bootstrap an AWS node to Chef
 * Write a simple cookbook to configure a web server in AWS
+* Write a simple cookbook to manage the config for SSHD
 
 ## Software development practices
 * Sign up for a Github account
