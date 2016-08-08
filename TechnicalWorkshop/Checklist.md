@@ -44,7 +44,7 @@ In this workshop we will discuss the kinds of problems you are likely to encount
 - [ ] Monitoring and alerting is configured by automation to ensure we have full visibility of the estate
 
 ### Advanced infrastructure practices
-* We use resource schedulers like MESOS, Kubernetes and [Habitat](http://habitat.sh) to build auto scaling self organising topologies
+* We use resource schedulers like MESOS, Kubernetes and [Habitat](http://habitat.sh) to build auto scaling self organising topologies of middleware and application components and data.
 
 
 ### Basic Software Development practices
@@ -78,16 +78,19 @@ In this workshop we will discuss the kinds of problems you are likely to encount
 
 ### Basic Enterprise Architecture
 * EA's are embedded in teams that deliver product features to customers
-* EA's ensure that we regularly refactor to keep the architecture clean and eliminate fragility and excessive complexity.
+* EA's ensure that we regularly refactor to eliminate fragility and excessive complexity.
 
 ### Advanced Enterprise Architecture
-* EA's own communities of practice that span product teams to identify and extract useful design principles and design patterns
+* EA's own communities of practice that span product teams
+* EA's and help identify, extract and catalogue useful design principles and design patterns
+* EA's make sure that product teams define and publish the common reusable patterns as code with tests
 * EA's create and own common platforms and frameworks that make it ```frictionless``` to do the right thing
 * EA's drive change in operational and governance processes to enable product teams to deliver faster
 
 
 ### Basic Governance
 * Governance folks are educated about why we need to become a high velocity organisation
+* Governance folks are aware of the compliance benefits we obtain from high velocity
 * Governance folks are able to be clear about why a process or restriction is in place
 * Governance folks are supportive of LEANing governance processes
 
