@@ -42,6 +42,7 @@ In this workshop we will discuss the kinds of problems you are likely to encount
 - [ ] Virtualisation is extended to firewalls, load balancers, storage and networks
 - [ ] [Infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_Code) for firewalls, load balancers, storage and networks
 - [ ] Monitoring and alerting is configured by automation to ensure we have full visibility of the estate
+- [ ] 
 
 ### Advanced infrastructure practices
 * We use resource schedulers like MESOS, Kubernetes and [Habitat](http://habitat.sh) to build auto scaling self organising topologies of middleware and application components and data.
@@ -66,6 +67,7 @@ In this workshop we will discuss the kinds of problems you are likely to encount
 - [ ] Governance teams can review audit trails and verify their trust in us is well placed.
 - [ ] Virtualisation is extended to data to facilitate testing
 - [ ] Virtualisation is extended to external services to facilitate stubbing in functional testing
+- [ ] Testing envrionments can be built stood up and teared down, within minutes, and are ephemeral. eg. standard test harnesses,
 
 ### Collaboration
 - [ ] Collaboration includes all of us... sysops, devs, architects, product owners, governance people
@@ -96,7 +98,7 @@ In this workshop we will discuss the kinds of problems you are likely to encount
 * Governance folks are supportive of LEANing governance processes
 
 ### Advanced Governance
-* We can define our governance policies as code
+* We can define our compliance policies as code ( CIS, PCI DSS HIPAA, FIPS )
 * We can measure our compliance through automation and analytics
 * We can deploy changes to policy as code to improve our compliance.
 
