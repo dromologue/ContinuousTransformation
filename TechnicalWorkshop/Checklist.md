@@ -49,6 +49,7 @@ In this workshop we will discuss the kinds of problems you are likely to encount
 
 ### Basic Software Development practices
 - [ ] Features are kept small (no more than 1-2 days before sharing)
+- [ ] Testkitchen is used for local development, to spin up a local ( to workstation ) VM, and tested/iterated
 - [ ] All infrastructure and application code has tests so we can tell when we broke something when we made a change.
 - [ ] All infrastructure and application code is committed to a version control system.
 - [ ] All tests are committed to a version control system
