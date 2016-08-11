@@ -1,4 +1,4 @@
-# Technical Workshop Checklist
+# Technology Mentoring Workshop Checklist
 
 In this workshop we will discuss the kinds of problems you are likely to encounter as you begin to use DevOps, AGILE and LEAN to drive customer outcomes. We will also discuss some best practices gleaned from our own experience getting started, and also those of our Transformation customers.
 
@@ -37,18 +37,21 @@ In this workshop we will discuss the kinds of problems you are likely to encount
 - [ ] We avoid dual NIC's in VM's like the plague. Dual NICS go only at physical level for path redundancy
 - [ ] We use "thin provisioning" to avoid disk space management headaches.
 - [ ] Developers trusted to change any aspect of the VM
-- [ ] Topologies spun up by tools like Terraform or Chef Provisioning
+- [ ] Topologies spun up by tools like Cloudformation, Terraform or Chef Provisioning
 - [ ] Topologies are committed to a version control system.
 - [ ] Virtualisation is extended to firewalls, load balancers, storage and networks
 - [ ] [Infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_Code) for firewalls, load balancers, storage and networks
 - [ ] Monitoring and alerting is configured by automation to ensure we have full visibility of the estate
-
+- [ ] Full stack ( vm + storage + app ) deployed several times per day, and is normal
 ### Advanced infrastructure practices
+- [ ] Full stack ( vm + storage + app + network + FW ) deloyments are a regular occurrance.
+- [ ] Stacks are fully described in code ( Eg Cloudformation, Terraform, provisioning )
 * We use resource schedulers like MESOS, Kubernetes and [Habitat](http://habitat.sh) to build auto scaling self organising topologies of middleware and application components and data.
 
 
 ### Basic Software Development practices
 - [ ] Features are kept small (no more than 1-2 days before sharing)
+- [ ] Testkitchen is used for local development, to spin up a local ( to workstation ) VM, and tested/iterated
 - [ ] All infrastructure and application code has tests so we can tell when we broke something when we made a change.
 - [ ] All infrastructure and application code is committed to a version control system.
 - [ ] All tests are committed to a version control system
@@ -65,6 +68,7 @@ In this workshop we will discuss the kinds of problems you are likely to encount
 - [ ] Governance teams can review audit trails and verify their trust in us is well placed.
 - [ ] Virtualisation is extended to data to facilitate testing
 - [ ] Virtualisation is extended to external services to facilitate stubbing in functional testing
+- [ ] Testing envrionments can be built stood up and teared down, within minutes, and are ephemeral. eg. standard test harnesses,
 
 ### Collaboration
 - [ ] Collaboration includes all of us... sysops, devs, architects, product owners, governance people
@@ -95,7 +99,7 @@ In this workshop we will discuss the kinds of problems you are likely to encount
 * Governance folks are supportive of LEANing governance processes
 
 ### Advanced Governance
-* We can define our governance policies as code
+* We can define our compliance policies as code ( CIS, PCI DSS HIPAA, FIPS )
 * We can measure our compliance through automation and analytics
 * We can deploy changes to policy as code to improve our compliance.
 
