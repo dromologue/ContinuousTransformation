@@ -74,6 +74,7 @@ Answer these questions for _your_ team, not for the whole organisation or for wh
 - [ ] Versions of software in all environments are no older than N-1. 
 - [ ] Cookbooks are developed by both a Chef expert, and a Domain expert.
 - [ ] Quality Control gates have been relaced with Quality Assurance practices.
+- [ ] Bottlenecks in the CD pipeline are identified and resolved on a regular cadence. 
 - 
 ### Collaboration
 - [ ] Collaboration includes all of us... sysops, devs, architects, product owners, governance people
@@ -110,3 +111,4 @@ Answer these questions for _your_ team, not for the whole organisation or for wh
 - [ ] Do you know your top 10 suppliers ( Software/Infrastructure related )
 - [ ] Are you one of their top 3 custoemrs by value?
 - [ ] Is there a special attention paid to strategic suppliers?
+- [ ] Parts of infrastructure/software outsourced to a third party?
