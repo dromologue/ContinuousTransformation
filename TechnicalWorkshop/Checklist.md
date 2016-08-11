@@ -1,9 +1,9 @@
 # Technology Mentoring Workshop Checklist
 
-In this workshop we will discuss the kinds of problems you are likely to encounter as you begin to use DevOps, AGILE and LEAN to drive customer outcomes. We will also discuss some best practices gleaned from our own experience getting started, and also those of our Transformation customers.
+In this workshop we will discuss the kinds of problems you are likely to encounter as you begin to use DevOps, AGILE and LEAN to drive customer outcomes. We will also discuss some best practices learned from our own experience getting started, and helping other customers do so.
 
 # Checklist - Where are you now ?
-
+Answer these questions for _your_ team, not for the whole organisation or for what you think might be done elsewhere. 
 
 ### Basic Team Management
 
@@ -21,7 +21,6 @@ In this workshop we will discuss the kinds of problems you are likely to encount
 - [ ] Product teams contain (or can borrow) all the skills necessary to make the right decisions for the project
 - [ ] Teams are self-organising, and able to self-select. 
 - [ ] Team members are OK with voting themselves off the island.
-- [ ] **TODO**: Some points here about scaling, managing a portfolio of projects and such ?
 
 
 ### Basic infrastructure practices
@@ -48,7 +47,7 @@ In this workshop we will discuss the kinds of problems you are likely to encount
 ### Advanced infrastructure practices
 - [ ] Full stack ( vm + storage + app + network + FW ) deloyments are a regular occurrance.
 - [ ] Stacks are fully described in code ( Eg Cloudformation, Terraform, provisioning )
-* We use resource schedulers like MESOS, Kubernetes and [Habitat](http://habitat.sh) to build auto scaling self organising topologies of middleware and application components and data.
+- [ ] We use resource schedulers like MESOS, Kubernetes and [Habitat](http://habitat.sh) to build auto scaling self organising topologies of middleware and application components and data.
 
 
 ### Basic Software Development practices
@@ -81,32 +80,25 @@ In this workshop we will discuss the kinds of problems you are likely to encount
 - [ ] Spaces are available for people to colocate and work together when required
 - [ ] Collaboration spaces have power, WiFi and are comfortable to work in. Refreshments are close by.
 
-
 ### Basic Enterprise Architecture
-* EA's are embedded in teams that deliver product features to customers
-* EA's ensure that we regularly refactor to eliminate fragility and excessive complexity.
+- [ ] EA's are embedded in teams that deliver product features to customers
+- [ ] EA's ensure that we regularly refactor to eliminate fragility and excessive complexity.
 
 ### Advanced Enterprise Architecture
-* EA's own communities of practice that span product teams
-* EA's and help identify, extract and catalogue useful design principles and design patterns
-* EA's make sure that product teams define and publish the common reusable patterns as code with tests
-* EA's create and own common platforms and frameworks that make it ```frictionless``` to do the right thing
-* EA's drive change in operational and governance processes to enable product teams to deliver faster
-
+- [ ] EA's own communities of practice that span product teams
+- [ ] EA's and help identify, extract and catalogue useful design principles and design patterns
+- [ ] EA's make sure that product teams define and publish the common reusable patterns as code with tests
+- [ ] EA's create and own common platforms and frameworks that make it ```frictionless``` to do the right thing
+- [ ] EA's drive change in operational and governance processes to enable product teams to deliver faster
 
 ### Basic Governance
-* Governance folks are educated about why we need to become a high velocity organisation
-* Governance folks are aware of the compliance benefits we obtain from high velocity
-* Governance folks are able to be clear about why a process or restriction is in place
-* Governance folks are supportive of LEANing governance processes
+- [ ] Governance folks are educated about why we need to become a high velocity organisation
+- [ ] Governance folks are aware of the compliance benefits we obtain from high velocity
+- [ ] Governance folks are able to be clear about why a process or restriction is in place
+- [ ] Governance folks are supportive of LEANing governance processes
 
 ### Advanced Governance
-* We can define our compliance policies as code ( CIS, PCI DSS HIPAA, FIPS )
-* We can measure our compliance through automation and analytics
-* We can deploy changes to policy as code to improve our compliance.
+- [ ] We can define our compliance policies as code ( CIS, PCI DSS HIPAA, FIPS )
+- [ ] We can measure our compliance through automation and analytics
+- [ ] We can deploy changes to policy as code to improve our compliance.
 
-### Other
-**TODO**: What other domains roles and practices do we need to cover?
-* Finance in a high velocity org (allocating funds and measuring returns, big vs small bets)?
-* HR in a high velocity org? (recruiting, projecting a public image etc)
-* Sales and Marketing ???
