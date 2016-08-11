@@ -57,6 +57,7 @@ Answer these questions for _your_ team, not for the whole organisation or for wh
 - [ ] All infrastructure and application code is committed to a version control system.
 - [ ] All tests are committed to a version control system
 - [ ] We use [Semantic Versioning](http://semver.org) to be explicit about introducing breaking changes.
+- [ ] There are Quality Control gates im many parts of the process.
 
 ### Advanced Software Development practices
 - [ ] Pairing is widely used to help with skills transfer, improve code quality and velocity
@@ -70,7 +71,10 @@ Answer these questions for _your_ team, not for the whole organisation or for wh
 - [ ] Virtualisation is extended to data to facilitate testing
 - [ ] Virtualisation is extended to external services to facilitate stubbing in functional testing
 - [ ] Testing envrionments can be built stood up and teared down, within minutes, and are ephemeral. eg. standard test harnesses,
-
+- [ ] Versions of software in all environments are no older than N-1. 
+- [ ] Cookbooks are developed by both a Chef expert, and a Domain expert.
+- [ ] Quality Control gates have been relaced with Quality Assurance practices.
+- 
 ### Collaboration
 - [ ] Collaboration includes all of us... sysops, devs, architects, product owners, governance people
 - [ ] Sysops and developers tend to sit together (and eat pizza together and go for beer together).
@@ -102,3 +106,7 @@ Answer these questions for _your_ team, not for the whole organisation or for wh
 - [ ] We can measure our compliance through automation and analytics
 - [ ] We can deploy changes to policy as code to improve our compliance.
 
+### Supplier Managment
+- [ ] Do you know your top 10 suppliers ( Software/Infrastructure related )
+- [ ] Are you one of their top 3 custoemrs by value?
+- [ ] Is there a special attention paid to strategic suppliers?
