@@ -5,10 +5,10 @@ In this workshop we will discuss the kinds of problems you are likely to encount
 # Checklist - Where are you now ?
 
 
-### Basic Project Management
-**TODO**: Do we make this about teams rather than project management ?
+### Basic Team Management
 
 - [ ] We work in small ```product focussed``` teams to deliver value to customers in small increments so we can learn and adapt
+- [ ] 2 pizza teams are the optimum size for our business ( ie if you need more than 2 pizzas to feed your team it is too big ).
 - [ ] Product teams are empowered to make decisions and do whatever is necessary to deliver at velocity
 - [ ] We use [agile](https://en.wikipedia.org/wiki/Agile_software_development) methods to achieve high velocity
 - [ ] We ALL attend stand-ups daily so progress and problems are highly visible
@@ -16,9 +16,11 @@ In this workshop we will discuss the kinds of problems you are likely to encount
 - [ ] We measure the success of our features so we can learn and adapt
 - [ ] We demonstrate our work regularly (at least bi-weekly)
 
-### Advanced project management
+### Advanced Team management
 - [ ] We have an engaged product owner
 - [ ] Product teams contain (or can borrow) all the skills necessary to make the right decisions for the project
+- [ ] Teams are self-organising, and able to self-select. 
+- [ ] Team members are OK with voting themselves off the island.
 - [ ] **TODO**: Some points here about scaling, managing a portfolio of projects and such ?
 
 
