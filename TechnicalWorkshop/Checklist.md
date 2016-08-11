@@ -30,6 +30,7 @@ Answer these questions for _your_ team, not for the whole organisation or for wh
 - [ ] Lab environment with sufficient capacity to experiment and learn about DevOps tooling
 - [ ] Access to provision VM's through an API as well as through the manufacturer's UI.
 - [ ] [Infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_Code) for VM's using a configuration management system (like Chef)
+- [ ] Centralised Log Management is in place and used by some applications ( eg. Elastic Search, Splunk )
 
 ### Intermediate infrastructure practices
 - [ ] Self service VM provisioning for all developers.
