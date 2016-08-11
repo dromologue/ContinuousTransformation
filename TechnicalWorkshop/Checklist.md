@@ -1,4 +1,4 @@
-# Technical Workshop Checklist
+# Technology Mentoring Workshop Checklist
 
 In this workshop we will discuss the kinds of problems you are likely to encounter as you begin to use DevOps, AGILE and LEAN to drive customer outcomes. We will also discuss some best practices gleaned from our own experience getting started, and also those of our Transformation customers.
 
