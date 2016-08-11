@@ -12,7 +12,6 @@ The same goes for additions and suggested changes - please submit a pull request
 
 An overview of primary content is held at the wiki [here](https://github.com/dromologue/BeingContinuous/wiki).
 
-Content planned for addition is here in a [Gist](https://gist.github.com/dromologue/5ac46f3de36e958f4f000e5db123f996).
 
 
 
