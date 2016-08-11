@@ -37,14 +37,15 @@ In this workshop we will discuss the kinds of problems you are likely to encount
 - [ ] We avoid dual NIC's in VM's like the plague. Dual NICS go only at physical level for path redundancy
 - [ ] We use "thin provisioning" to avoid disk space management headaches.
 - [ ] Developers trusted to change any aspect of the VM
-- [ ] Topologies spun up by tools like Terraform or Chef Provisioning
+- [ ] Topologies spun up by tools like Cloudformation, Terraform or Chef Provisioning
 - [ ] Topologies are committed to a version control system.
 - [ ] Virtualisation is extended to firewalls, load balancers, storage and networks
 - [ ] [Infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_Code) for firewalls, load balancers, storage and networks
 - [ ] Monitoring and alerting is configured by automation to ensure we have full visibility of the estate
-- [ ] 
-
+- [ ] Full stack ( vm + storage + app ) deployed several times per day, and is normal
 ### Advanced infrastructure practices
+- [ ] Full stack ( vm + storage + app + network + FW ) deloyments are a regular occurrance.
+- [ ] Stacks are fully described in code ( Eg Cloudformation, Terraform, provisioning )
 * We use resource schedulers like MESOS, Kubernetes and [Habitat](http://habitat.sh) to build auto scaling self organising topologies of middleware and application components and data.
 
 
