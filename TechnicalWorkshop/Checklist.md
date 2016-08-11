@@ -31,6 +31,7 @@ Answer these questions for _your_ team, not for the whole organisation or for wh
 - [ ] Access to provision VM's through an API as well as through the manufacturer's UI.
 - [ ] [Infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_Code) for VM's using a configuration management system (like Chef)
 - [ ] Centralised Log Management is in place and used by some applications ( eg. Elastic Search, Splunk )
+- [ ] Vm images are updated and available for local use (eg testkitchen, vagrant, )
 
 ### Intermediate infrastructure practices
 - [ ] Self service VM provisioning for all developers.
@@ -49,7 +50,7 @@ Answer these questions for _your_ team, not for the whole organisation or for wh
 - [ ] Stack topologies are fully described in code ( Eg Cloudformation, Terraform, provisioning )
 - [ ] Stack topologies are comitted to version control.
 - [ ] We use resource schedulers like MESOS, Kubernetes and [Habitat](http://habitat.sh) to build auto scaling self organising topologies of middleware and application components and data.
-
+- [ ] Vm images are built from ISO nightly( from single source script ), fully patched and available for all platforms (vmware, AWS, Vagrant etc )
 
 ### Basic Software Development practices
 - [ ] Features are kept small (no more than 1-2 days before sharing)
