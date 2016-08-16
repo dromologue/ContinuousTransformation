@@ -30,20 +30,24 @@ Unit tests are the underpinning for **TDD** (Test driven development) where we i
 #### Functional tests
 Functional tests are used to test the behaviour of a fully assembled application. They can be used to give the developer a better sense of whether the application is behaving correctly.
 
-More often they are used as part of the release process so we can be confident our application works in the environment we deployed to.
+More often they are used as part of the release process so we (and in particular product owners, business users and operations staff)can be confident our application works in the environment we deployed to.
+
+Functional tests normally excercise the application through API calls (REST, SOAP, message brokers etc) or via the application's user interface using screen scraping, web browser integrations etc.
 
 #### Integration tests
 Integration tests allow us to verify that a collection of things work together.
 
 In traditional software development these will be a collection of mostly functional tests written by a dedicated team based on the functional requirements specification. Work is divided amongst development silos who all come together at release time to see if the parts work together. Often they don't and the is a mad scramble to fix stuff before the quarterly release date.
 
-In high velocity development, we integrate changes rapidly into the code base and intagration testing is more about making sure complete applications play nicely with other applications as we promote them between environments.
+In high velocity development, we integrate changes rapidly into the master/trunk branch of code base and integration testing is more focussed on making sure complete applications play nicely with other applications as we promote individual changes between environments.
 
 #### Behaviour Driven Design (BDD)
 
 [Behaviour driven design (BDD)](BehaviourDrivenDesign.md) can be considered a way of writing specifications by example. It's used to precisely define and clearly communicate what feature we want to build and how we verify behaviours.
 
-BDD is written in business language but it has a very clearly defined structure that allows us to parse it to drive automation of unit and functional tests.
+The main aim of BDD is to communicate requirements and behaviours in business language.
+
+BDD has a very clearly defined structure that allows us to parse it to drive automation of unit and functional tests.
 
 The structure consists of:-
 * Stakeholders and a high level rationale
@@ -51,8 +55,13 @@ The structure consists of:-
 * Events/actions
 * Expected behaviour
 
-
-
 #### Split testing (sometimes called A/B testing or blue/green deployments)
 
-TODO: Fill this out.
+Split testing is most often used when performing business experiments. It's purpose is to compare the customer benefits of different experiments to work out which were most effective in attracting or keeping customers and driving profitability.
+
+* First we prepare a few hypotheses (5% of people are color blind so a monochrome UI should raise the signup rate by 5%)
+* Then we implement some measures to for comparison
+* Then we release each of our experiments to a small batch of customers
+* Finally we compare the results to see which changes we want to deploy to all customers.
+
+Sometimes we do small deploys to a subset of customers to minimise the risk/impact of a change. This is not really split testing and is more properly called a **rolling deployment**
