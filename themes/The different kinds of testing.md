@@ -27,17 +27,24 @@ Unit tests are the underpinning for **TDD** (Test driven development) where we i
 * Write just enough code to make the test pass
 * Refactor to remove fragility, duplication, complexity
 
+#### Smoke tests
+Smoke tests are really just very minimal functional tests. Often they are simply a test that an endpoint is listening and responding to basic requests or the service shows up in a process list.
+
+The purpose of a smoke test is to very quickly indicate something is wrong when we fail to correctly deploy an application to an environment. The purpose is not to pinpoint the precise cause of failure unless it can be done very quickly.
+
 #### Functional tests
 Functional tests are used to test the behaviour of a fully assembled application. They can be used to give the developer a better sense of whether the application is behaving correctly.
 
-More often they are used as part of the release process so we (and in particular product owners, business users and operations staff)can be confident our application works in the environment we deployed to.
+More often they are used as part of the release process so we (and in particular product owners, business users and operations staff) can be confident the application still works in the environment we deployed to.
 
 Functional tests normally excercise the application through API calls (REST, SOAP, message brokers etc) or via the application's user interface using screen scraping, web browser integrations etc.
 
 #### Integration tests
 Integration tests allow us to verify that a collection of things work together.
 
-In traditional software development these will be a collection of mostly functional tests written by a dedicated team based on the functional requirements specification. Work is divided amongst development silos who all come together at release time to see if the parts work together. Often they don't and the is a mad scramble to fix stuff before the quarterly release date.
+In traditional software development we often see a collection of mostly functional tests written by a dedicated team based on a formal functional requirements specification.
+
+Work is divided amongst development silos who all come together at release time to see if the parts work together. Often they don't and the is a mad scramble to fix stuff before the quarterly release date.
 
 In high velocity development, we integrate changes rapidly into the master/trunk branch of code base and integration testing is more focussed on making sure complete applications play nicely with other applications as we promote individual changes between environments.
 
