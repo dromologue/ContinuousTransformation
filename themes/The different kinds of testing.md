@@ -15,6 +15,11 @@ To compete we need to shorten the cycle between having the initial idea and rece
 
 Use the following kinds of testing to satisfy the requirements of the different stages of software development.
 
+#### Monitoring
+OK, monitoring is not strictly a testing method but there is a fine line between modern monitoring and functional testing. Modern monitoring tools can often execute functional tests periodically in addition to collecting and alerting on traditional indicators like utilisation, performance or error rates.
+
+This can give us an early indication that a rolling upgrade is causing problems.
+
 #### Unit tests
 Unit tests focus on testing small sections of code at a very granular level in isolation from the rest of the system.
 
