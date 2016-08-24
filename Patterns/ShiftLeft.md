@@ -1,7 +1,7 @@
 # ShiftLeft
 
 ## Context
-Certain tasks are often left unitl late in the process flow before being done. It can be extremely cost effective to do these tasks earlier in the process.
+Certain tasks are often left until late in the process flow before being done. It can be extremely cost effective to do these tasks earlier in the process.
 
 ## Forces
 + Failure gets more expensive the "closer" the product gets to the customer
