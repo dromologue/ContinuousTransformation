@@ -1,7 +1,7 @@
 # DontCountHorses
 
 ## Context
-The stable door is open because it was not bolted, the horses have escaped.  What to do?
+The stable door is open, it was not bolted, the horses have escaped.  What to do?
 
 ## Forces
 + Desire to find the horses and count them
