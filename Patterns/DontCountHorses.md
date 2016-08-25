@@ -1,4 +1,4 @@
-# DontWasteTimeCountingHorses
+# DontCountHorses
 
 ## Context
 The stable door is open because it was not bolted, the horses have escaped.  What to do?
