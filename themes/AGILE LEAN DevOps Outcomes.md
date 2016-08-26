@@ -45,3 +45,5 @@ DevOps is all about the **flow** and the **waste**. We organise ourselves into c
 * We improve **flow** by ensuring every product team has the skills (or access to them) to perform any required task immediately.
 * We improve **flow** by automation of time consuming manual tasks
 * We reduce **waste** by automation of error prone tasks
+
+DevOps traditionally focusses on breaking the silos between "development" and "infrastructure operations" teams because these are seen as huge problems. We need to be careful to include anyone else who is involved in getting software to customers... that includes security, compliance, legal, purchasing, sourcing as these have a major impact on **flow** and **waste**.
