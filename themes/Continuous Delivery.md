@@ -29,7 +29,7 @@ When we detect a change has been committed to version control, we:-
 
 ## Flow Diagram
 
-<img src="../Diagrams/Development process.svg"></img>
+<img src="https://github.com/dromologue/ContinuousTransformation/blob/master/Diagrams/Development%20process.svg"></img>
 
 ## Components
 
