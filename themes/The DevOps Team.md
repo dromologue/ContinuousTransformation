@@ -17,7 +17,7 @@ Developers see the new provisiong process as a low friction way to get VM's for 
 
 The "DevOps team" becomes 100% utilised customising the build, writing deployment automation and doing operational support for all the apps that use the new platform.
 
-The developers in product teams start to get frustrated at the bottleneck and wonder how this is better than the old way. They are unable to help out because they don't have the skills or access.
+The developers in product teams start to get frustrated at the bottleneck and wonder how this is better than the old way. They are unable to help out because they don't have the knowledge about how we built it or the access to operate or improve it.
 
 
 ## Solutions
