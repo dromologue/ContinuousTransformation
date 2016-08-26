@@ -1,17 +1,24 @@
 # Incremental changes
 
-Product development can be a time consuming and risky business.
+Product development can be an expensive, time consuming and risky business.
 
-We know that its hard to know what's valuable to the customer and and we know we need to conduct experiments and obtain [customer feedback](Learning from customer feedback.md)
+## The problems
 
-Empirically we know our success rate at predicting what a customer perceives as valuable is likely to be in the region of 40-60%. That's a huge amount of failed experiments.
+Our success rate at predicting customer value is very low, often as little as 50%. We don't have the money and resource to fully develop the ideas that won't pay back.
 
-Empirically we also know that the time to get budget approved for a
+Empirically, we know that the larger and longer a project is, the greater the risk of cost overruns, delays and failure to deliver in whole or in part. To reduce the risk we spend a lot of time in analysis and bureaucratic risk mitigation.
 
-To reduce the cost and effort of running these experiments we need to do the smallest amount of work possible to prove our hypotheses. Often we don't even need to build a feature at all, we can use a manual process with thin veneer of user interface (the smoke and mirrors trick). Eric Rees calls this the MVP (minimum viable product)
+While we spend all this time planning, the world changes around us. Our competitors innovate just as we do. Changing market conditions alter our cashflow (and our appetite to invest), new opportunities present themselves (such as complimentary partnerships with other organisations).
 
 
+## The solutions
 
+* Have a vision that guides you in the right direction and informs your decisions
+* Plan a few sprints ahead but no more than that
+
+* Make hypotheses and run experiments to [learn from your customers](Learning from customer feedback.md).
+* Do the smallest thing possible to prove your hypotheses (the minimum viable product or MVP)
+* Learn from your experiements and be prepared to change direction when things are not working out.
 
 ## Further reading
 
