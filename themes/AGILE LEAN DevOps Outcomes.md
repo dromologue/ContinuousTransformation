@@ -31,7 +31,7 @@ In order to avoid analysis paralysis and eliminate the **waste** from unnecessar
 In order to measure the **value** we are creating for the customer, and improve **flow**, we need to deliver something to our customer in every sprint.
 
 * We measure the value of features based on **pull** from our customers
-* We reflect on what held us back so we can improve our conditions
+* We reflect on what held us back so we can improve our conditions to improve **flow**
 * We reflect on what went well so we can celebrate the achievements
 * We demo to our stakeholders to get feedback on features and prioritise the backlog
 * We aggressively eliminate things from the backlog which are no longer relevant
