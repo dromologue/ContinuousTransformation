@@ -1,6 +1,6 @@
 # Behaviour Driven Design (BDD)
 
-An extension of "Test driven design that uses business language"
+An extension of "Test driven design" that uses business language instead of technical language
 
 ## Context
 When we develop software at high velocity we need a way for technical and non-technical people (aka. "business people") to communicate quickly and precisely about what needs to be built or fixed, what quality is required and when we can consider something done.
@@ -16,7 +16,7 @@ When we develop software at high velocity we need a way for technical and non-te
 
 Describe expected application behaviour by example as written tests in the language of the business. Describe the conditions, the events and expected behaviours.
 
-Let developers use BDD frameworks to convert written examples from the business domain language (customers, orders, products) into tests in the technical domain (API calls, assertions etc).
+Let developers use BDD frameworks to convert behaviour examples from the business domain language (customers, orders, products) into tests in the technical domain (API calls, assertions etc).
 
 Write just enough application code to make the tests pass and **call that done**.
 
@@ -73,7 +73,9 @@ eg. ```Given that "Mrs Smith" has a deposit account``` might call ```createAccou
 
 In scenario 2 above, we just re-use the "Step Definitions" from scenario 1 with different parameters.
 
-The astute developer would probably notice that the tests allow an overdrawn customer to go back into credit and then go overdrawn again in quick succession. That might prompt a discussion about the policy about sending multiple billable letters in a single statement cycle. Its very easy for a developer and a customer relationship manager to have that kind of discussion and come to a quick decision about how to proceed (eg. Do what's described and put a feature for better letter suppression in backlog)
+The astute developer or business stakeholder would probably notice that the tests don't cover the case where an overdrawn customer goes back into credit and then goes overdrawn again in quick succession... and we may feel it's unfair to charge a customer for overdraft letters more than once per statement cycle.
+
+You can see that because our examples are clearly defined in business terms it's easy for the whole team to have a conversation about **customer outcomes**. It may be that we decide to continue with the examples for the sake of speed, and put something in the backlog to improve the way we schedule chargeable letters (or even just stop charging for letters)
 
 ## Further reading
 * [The RSPEC book](https://www.amazon.co.uk/RSpec-Book-Behaviour-Development-Cucumber/dp/1934356379) has good coverage of TDD and BDD using RSPEC and Cucumber respectively.
