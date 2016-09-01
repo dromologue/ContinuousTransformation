@@ -111,6 +111,6 @@ Answer these questions for _your_ team, not for the whole organisation or for wh
 
 ### Supplier Managment
 - [ ] Do you know your top 10 suppliers ( Software/Infrastructure related )
-- [ ] Are you one of their top 3 custoemrs by value?
+- [ ] Are you one of their top 3 customers by value?
 - [ ] Is there a special attention paid to strategic suppliers?
 - [ ] Parts of infrastructure/software outsourced to a third party?
