@@ -2,9 +2,9 @@
 
 A DevOps Transformation Practice.
 
-This set of practices distills 20 years of expereince from [Justin Arbuckle](mailto:dromologue@gmail.com), in driving large scale technology-oriented change. It has been clarified, extended and further developed at CHEF Software in the Transformation Practice, working with clients all over the world, with contributions by Ruben Dart, Richard Nixon, [Scott Russell](mailto:scott.russell@inetmedia.co.uk), Michael Goetz, John Martin and Jeff Hackert. 
+This set of practices distills 20 years of experience from [Justin Arbuckle](mailto:dromologue@gmail.com), in driving large scale technology-oriented change. It has been clarified, extended and further developed at CHEF Software in the Transformation Practice, working with clients all over the world, with contributions by Ruben Dart, Richard Nixon, [Scott Russell](mailto:scott.russell@inetmedia.co.uk), Michael Goetz, John Martin and Jeff Hackert. 
 
-While it is the basis of a commercial services offering at [CHEF](http://chef.io) and other places it is free to use with attribution and the hope is that others will extend it, improve it and share alike based on their practice. 
+While it is the basis of a commercial services offering at [CHEF](http://chef.io) and other places, it is free to use with attribution and the hope is that others will extend it, improve it and share alike based on their practice. 
 
 Please submit a pull request with the addition of your name to the [Contributors List](https://github.com/dromologue/ContinuousTransformation/blob/master/Contributors.md) to lodge your support.
 
